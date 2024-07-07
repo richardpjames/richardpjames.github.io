@@ -2,7 +2,7 @@
 layout: post
 title: Resolving Issues with Huion Pen Tablets (Photoshop and Krita)
 author: Richard James
-imageurl: /assets/images/huion/cover.png
+imageurl: /assets/images/huion/cover.webp
 ---
 
 I’ve recently picked up a Huion tablet in order to help with game art creation. I had read a few reviews online which mentioned some driver issues, which I decided I could probably live with given that the model I opted for is a mere £20 on eBay.
