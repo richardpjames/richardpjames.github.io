@@ -1,13 +1,11 @@
 $dark: #040D12;
 $light: #FFFFFF;
 
-body {
+nav {
     color: $light;
     background-color: $dark;
-    font-family: "Open Sans", sans-serif;
 }
 
 nav .navbar-nav li a {
     color: $light !important;
 }
-

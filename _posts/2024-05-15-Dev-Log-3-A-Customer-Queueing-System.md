@@ -159,7 +159,7 @@ func calculate_offset(position: int) -> Vector3:
  direction = direction.round()
  return queue_point.global_position + ((position - 1) * direction * queue_offset)
 ```
-### customer.gd
+### customer.gd:
 ```
 extends CharacterBody3D
 class_name Customer
