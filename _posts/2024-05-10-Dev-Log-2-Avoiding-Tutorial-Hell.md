@@ -2,7 +2,7 @@
 layout: post
 title: Dev Log 2 - Avoiding Tutorial Hell
 author: Richard James
-imageurl: /assets/images/dev-log-2/arenabattle.png
+imageurl: /assets/images/dev-log-2/cover.webp
 ---
 
 Something I am keen to avoid, is getting stuck in a "Tutorial Hell". This is a state where you follow lots and lots of tutorials online, but you get stuck never really being able to create something on your own. With that in mind I have spent my week prototyping and exploring a few new ideas.
