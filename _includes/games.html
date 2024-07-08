@@ -1,0 +1,9 @@
+<div class="row">
+    {% for game in site.data.games %}
+    <div class="col-lg-4 col-12">
+        <a href="{{ game.url }}" target="_blank"><img src="{{ game.imageurl }}" alt="{{ game.name }}" class="img-fluid mb-3 mt-3" /></a>
+        <h3><a href="{{ game.url }}" class="text-body" target="_blank">{{ game.name }}</a></h3>
+        <div class="mt-3">{{ game.description }}</div>
+    </div>
+    {% endfor %}
+</div>
