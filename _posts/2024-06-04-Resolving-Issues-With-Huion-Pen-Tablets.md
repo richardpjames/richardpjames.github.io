@@ -12,7 +12,8 @@ However, I experienced a number of problems which were dealbreakers:
 * Jittery performance in Adobe Photoshop (lines skipping, software stalling)
 * No pressure sensitivity being detected in Adobe Photoshop and Krita
 * Shortcut buttons on the tablet not working
-* I took the steps below through the Huion Tablet software to resolve these issues and now I am completely happy with how the tablet is running.
+
+I took the steps below through the Huion Tablet software to resolve these issues and now I am completely happy with how the tablet is running.
 
 Firstly, download the latest set of drivers from the [Huion Website here](https://huion.com/download).
 
