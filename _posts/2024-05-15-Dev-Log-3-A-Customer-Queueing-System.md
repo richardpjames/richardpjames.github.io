@@ -2,7 +2,7 @@
 layout: post
 title: Dev Log 3 - A Customer Queueing System
 author: Richard James
-imageurl: /assets/images/dev-log-3/withmodels.png
+imageurl: /assets/images/dev-log-3/cover.webp
 ---
 
 After a few prototypes I have settled on an idea for my first small game. It revolves around running a series of food trucks nestled in a forest. A number of customers wander the paths and choose which food they want to buy. A number of factors influence this, with the weather and individual customer preferences being taken into account. With increasing rent to pay, and random events, you have to try an keep afloat for as long as possible.
