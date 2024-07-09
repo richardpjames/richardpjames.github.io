@@ -2,7 +2,7 @@
 layout: post
 title: Dev Log 1 - Getting Started
 author: Richard James
-imageurl: /assets/images/dev-log-1/godoteditor.png
+imageurl: /assets/images/dev-log-1/cover.webp
 ---
 
 For some time, I have wanted to create my own game. It fits really nicely with a few hobbies that I already have (programming, music and art) and would scratch a creative itch.
