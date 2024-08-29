@@ -1,8 +1,0 @@
-[
-    {
-        "name": "Knight Jumper 2",
-        "description": "A very simple platformer built in Unity. Collect all of the coins to complete the game, but if you touch the skeletons you start back at the beginning. Built to experiment with my art creation workflow and to work with bone based animations.",
-        "url": "/games/knightjumper2",
-        "imageurl": "/assets/images/dev-log-5/screenshot.png"
-    }
-]
